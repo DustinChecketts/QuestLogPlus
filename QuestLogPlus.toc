@@ -1,0 +1,11 @@
+## Interface: 30403
+## Title: QuestLogPlus
+## Version: 1.0.0
+## Author: StormtrooperTK421
+## Notes: Displays Quest Level and Experience in the Quest Log
+## SavedVariables: QXPdb
+## DefaultState: enabled
+## X-Curse-Project-ID:
+
+
+QuestLogPlus.lua
