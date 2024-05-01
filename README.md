@@ -7,7 +7,6 @@ Quest Log Plus combines the functionality of two different quest log addons for 
 
 - Seamlessly integrates into the native quest log and UI
 - Quest levels added to the left of quest titles in the quest list
-- Quest experience added to the right of the quest title in the quest list
 - Retains the ability to shift+click link quests in chat
 - Retains the ability to shift+click quests to enable quest tracking
 
@@ -17,6 +16,7 @@ Quest Log Plus combines the functionality of two different quest log addons for 
 
 <h4>Known Issues / To-Do</h4>
 
+- Quest experience added to the right of the quest title in the quest list
 - Create options interface or chat commands to enable/disable the 2 features
 
 Updated, uploaded, and maintained (at least for now) by [StormtrooperTK421](https://discordapp.com/users/237746068844969994) on [GitHub](https://github.com/DustinChecketts/QuestLogPlus). Please submit issues and I'll do my best to troubleshoot, replicate, and resolve issues as my limited abilities allow.
