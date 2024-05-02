@@ -29,7 +29,8 @@ function QuestLogPlus:QuestLog_Update()
             local _, level = GetQuestLogTitle(questIndex)
             local questText = questLogTitle:GetText()
 
-            if level and questText then
+            -- Check if the level is greater than 0 and if both level and quest text are available
+            if level and level > 0 and questText then
                 local questTextFormatted = format("[%d] %s", level, questText)
                 questLogTitle:SetText(questTextFormatted)
                 questLogTitle.normalText:SetWidth(265 - questLogTitle.tag:GetStringWidth())
