@@ -1,6 +1,6 @@
 ## Interface: 40400
 ## Title: QuestLogPlus
-## Version: 1.0.1
+## Version: 1.0.2
 ## Author: StormtrooperTK421
 ## Notes: Displays Quest Level beside the quest name in the left pane of the Quest Log
 ## DefaultState: enabled
