@@ -1,4 +1,4 @@
-## Interface: 50500
+## Interface: 40400, 50500
 ## Title: QuestLogPlus
 ## Version: 1.0.3
 ## Author: StormtrooperTK421
